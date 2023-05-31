@@ -1,4 +1,4 @@
-# JWT Authentication with Actix Web
+# JWT authentication microservice on the actix-web framework
 Actix-web is a Rust web platform for creating scalable and incredibly fast web applications. It is built on top of the Actix framework, which is a Rust actors platform offering a simple and efficient concurrency control solution.
 
 Actix-web comes with many features needed for web development, including routing, middleware, JSON serialization, asynchronous I/O, WebSockets, and more.
